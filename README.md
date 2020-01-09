@@ -1,4 +1,4 @@
-## Zoom H6 OLA bride
+## Zoom H6 OLA bridge
 _The most ridiculous (but actually kind-of useful) bit of code I think I've ever written_
 
 Create an issue if you actually want to try this and I'll add some more info on how to set it up.
