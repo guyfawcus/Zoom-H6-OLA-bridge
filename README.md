@@ -3,7 +3,7 @@ _The most ridiculous (but actually kind-of useful) bit of code I think I've ever
 
 Create an issue if you actually want to try this and I'll add some more info on how to set it up.
 
-![QLC+ screenshot](qlc-screenshot.png]
+![QLC+ screenshot](https://raw.githubusercontent.com/guyfawcus/Zoom-H6-OLA-bridge/master/qlc-screenshot.png)
 
 ### Requires
 * [Open Lighting Architecture](https://www.openlighting.org/ola)
