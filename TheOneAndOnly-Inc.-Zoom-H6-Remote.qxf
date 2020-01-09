@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition xmlns="http://www.qlcplus.org/FixtureDefinition">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>4.12.2</Version>
+  <Author>guyfawcus</Author>
+ </Creator>
+ <Manufacturer>TheOneAndOnly Inc.</Manufacturer>
+ <Model>Zoom H6 Remote</Model>
+ <Type>Other</Type>
+ <Channel Name="Left">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="150">Red</Capability>
+  <Capability Min="151" Max="200">Yellow</Capability>
+  <Capability Min="201" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="Right">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="150">Red</Capability>
+  <Capability Min="151" Max="200">Yellow</Capability>
+  <Capability Min="201" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="1">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="150">Red</Capability>
+  <Capability Min="151" Max="200">Yellow</Capability>
+  <Capability Min="201" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="2">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="150">Red</Capability>
+  <Capability Min="151" Max="200">Yellow</Capability>
+  <Capability Min="201" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="3">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="150">Red</Capability>
+  <Capability Min="151" Max="200">Yellow</Capability>
+  <Capability Min="201" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="4">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="150">Red</Capability>
+  <Capability Min="151" Max="200">Yellow</Capability>
+  <Capability Min="201" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="Play">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="250">Green</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Channel Name="Record">
+  <Group Byte="0">Colour</Group>
+  <Capability Min="0" Max="100">Off</Capability>
+  <Capability Min="101" Max="250">Red</Capability>
+  <Capability Min="251" Max="255">Off</Capability>
+ </Channel>
+ <Mode Name="8 Channel">
+  <Channel Number="0">Left</Channel>
+  <Channel Number="1">Right</Channel>
+  <Channel Number="2">1</Channel>
+  <Channel Number="3">2</Channel>
+  <Channel Number="4">3</Channel>
+  <Channel Number="5">4</Channel>
+  <Channel Number="6">Play</Channel>
+  <Channel Number="7">Record</Channel>
+ </Mode>
+ <Physical>
+  <Bulb Type="LED" Lumens="0" ColourTemperature="0"/>
+  <Dimensions Weight="0.01" Width="40" Height="90" Depth="15"/>
+  <Lens Name="Other" DegreesMin="0" DegreesMax="0"/>
+  <Focus Type="Fixed" PanMax="0" TiltMax="0"/>
+  <Technical PowerConsumption="1" DmxConnector="Other"/>
+ </Physical>
+</FixtureDefinition>
